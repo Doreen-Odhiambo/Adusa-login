@@ -1,0 +1,3 @@
+Name:Alice
+Email:alice@gmail.com
+Password:3434
